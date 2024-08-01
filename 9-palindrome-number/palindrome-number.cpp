@@ -16,9 +16,6 @@ public:
         if(n!=y){
             return false;
         } 
-        else{
-            return true;
-        }
-        return 0;
+        return true;
     }
 };
